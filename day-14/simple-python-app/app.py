@@ -10,3 +10,6 @@ if __name__ == '__main__':
     app.run()
 
 #adding line to check codepipeline
+a = 2
+b =3
+sum(a, b)
